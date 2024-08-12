@@ -6,3 +6,6 @@ Here, you can learn about a new player every single day. The page refreshes ever
 
 #Team Builder
 For each player you gain from visiting the website, you can build a team using this player...
+
+#HMMMMMMMMMMMMMM
+hmm.......
